@@ -4,7 +4,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs. 
+Driven by a quest to navigate the data analyst job market more effectively, this project explores top-paying and in-demand skills, streamlining others' job search by highlighting where they overlap. It also stems from a desire to put my SQL fundamentals into practice and take them further in analyzing query results through charts, tables, and summaries — putting the focus on standout data points. This project, completed after finishing Luke Barousse's SQL course, was a way to build hands-on experience and consolidate my skills.
 
 Data hails from [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
@@ -237,7 +237,7 @@ From the analysis, several general insights emerged:
 
 ### Closing Thoughts
 
-This project enhanced my SQL skills and provided valuable insights into the data analyst job market. The findings from the analysis serve as a guide to prioritizing skill development and job search efforts. Aspiring data analysts can better position themselves in a competitive job market by focusing on high-demand, high-salary skills. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market.Although the data leans heavily toward the US market, the insights still hold value for grasping broader skill demand trends — especially relevant for remote roles, where geography matters less and the right skill set makes the difference. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
 
 
 
