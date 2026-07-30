@@ -237,7 +237,7 @@ From the analysis, several general insights emerged:
 
 ### Closing Thoughts
 
-This project enhanced my SQL skills and provided valuable insights into the data analyst job market.Although the data leans heavily toward the US market, the insights still hold value for grasping broader skill demand trends — especially relevant for remote roles, where geography matters less and the right skill set makes the difference. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
+This project enhanced my SQL skills and provided valuable insights into the data analyst job market. Although the data leans heavily toward the US market, the insights still hold value for grasping broader skill demand trends, especially relevant for remote roles, where geography matters less and the right skills set makes the difference. This exploration highlights the importance of continuous learning and adaptation to emerging trends in the field of data analytics.
 
 
 
