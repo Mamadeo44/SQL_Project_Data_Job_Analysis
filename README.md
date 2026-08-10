@@ -4,7 +4,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
 # Background
-Driven by a quest to navigate the data analyst job market more effectively, this project explores top-paying and in-demand skills, streamlining others' job search by highlighting where they overlap. It also stems from a desire to put my SQL fundamentals into practice and take them further in analyzing query results through charts, tables, and summaries — putting the focus on standout data points. This project, completed after finishing Luke Barousse's SQL course, was a way to build hands-on experience and consolidate my skills.
+Driven by a quest to navigate the data analyst job market more effectively, this project explores top-paying and in-demand skills, streamlining others' job search by highlighting where they overlap. It also stems from a desire to put my SQL fundamentals into practice and take them further in analyzing query results through charts, tables, and summaries; putting the focus on standout data points. This project, completed after finishing Luke Barousse's SQL course, was a way to build hands-on experience and consolidate my skills.
 
 Data hails from [SQL Course](https://lukebarousse.com/sql). It's packed with insights on job titles, salaries, locations, and essential skills.
 
